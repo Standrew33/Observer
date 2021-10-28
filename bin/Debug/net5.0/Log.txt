@@ -1,0 +1,5 @@
+ID 13888  Name mspaint  Running Time 00:00:05.1555850 Start running 28.10.2021 21:57:14
+ID 15624  Name mspaint  Running Time 00:07:18.2771793 Start running 28.10.2021 22:34:07
+ID 17404  Name mspaint  Running Time 00:00:05.2273984 Start running 28.10.2021 22:41:36
+ID 1892  Name mspaint  Running Time 00:00:05.2134571 Start running 28.10.2021 22:47:34
+ID 16036  Name mspaint  Running Time 00:01:04.2194519 Start running 28.10.2021 22:48:33

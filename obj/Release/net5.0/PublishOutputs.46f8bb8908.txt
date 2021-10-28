@@ -1,0 +1,5 @@
+E:\Projects\C#\Observer\Observer\Observer\bin\publish\Observer.exe
+E:\Projects\C#\Observer\Observer\Observer\bin\publish\Observer.dll
+E:\Projects\C#\Observer\Observer\Observer\bin\publish\Observer.deps.json
+E:\Projects\C#\Observer\Observer\Observer\bin\publish\Observer.runtimeconfig.json
+E:\Projects\C#\Observer\Observer\Observer\bin\publish\Observer.pdb
